@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/pmp/pmp-library/build
+/pmp/pmp-library/.vs
+/pmp/pmp-library/.vscode
