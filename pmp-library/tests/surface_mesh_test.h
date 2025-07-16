@@ -42,4 +42,5 @@ public:
         v3 = mesh.add_vertex(Point(0, 1, 0));
         f0 = mesh.add_quad(v0, v1, v2, v3);
     }
+    ///
 };
